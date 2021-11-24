@@ -9,11 +9,17 @@ Source: https://stackoverflow.com/questions/48966645/how-can-i-create-a-legend-w
 This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code. 
 
 Try executing this chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Ctrl+Shift+Enter*. 
+Add a new chunk by clicking the *Insert Chunk* button on the toolbar or by pressing *Ctrl+Alt+I*.
+
+When you save the notebook, an HTML file containing the code and output will be saved alongside it (click the *Preview* button or press *Ctrl+Shift+K* to preview the HTML file).
+
+The preview shows you a rendered HTML copy of the contents of the editor. Consequently, unlike *Knit*, *Preview* does not run any R code chunks. Instead, the output of the chunk when it was last run in the editor is displayed.
+-----
 
 ```{r}
 
 # Create an empty plot
- plot(NULL ,xaxt='n',yaxt='n',bty='n',ylab='',xlab='', xlim=0:0.5, ylim=0:0.5)
+ plot(NULL ,xaxt='n',yaxt='n',bty='n',ylab='',xlab='', xlim=0:1/2, ylim=0:1/2)
 # xaxt="n" and yaxt="n" suppress the x and y axis respectively
 
 # use legend as you would if there were a plot
@@ -26,6 +32,21 @@ legend("center", legend =c('ISGF3+IRF1', 'ISGF3', 'IRF1-only',
 mtext("Gene targets", at=0.4, cex=2.5, line = -2)
 
 ```
+
+
+```{r}
+ ## IFNa  ### Modified ##
+
+# Create an empty plot
+ plot(NULL ,xaxt='n',yaxt='n',bty='n',ylab='',xlab='', xlim=0:1/2, ylim=0:1/2)
+
+legend("center", legend =c('STAT1+STAT2+IRF9+IRF1', 'STAT1+STAT2+IRF9', 'IRF1-only',
+    'STAT1-STAT2', 'STAT1 homodimer'), pch=16, pt.cex=3, cex=2, bty='n',
+    col = c('#FA8072', '#ADFF2F', '#40E0D0', '#FF0000', '#DAA520'))
+mtext("TF targets", at=0.4, cex=2.5, line = -1)
+
+```
+
 
 ```{r}
 # https://stackoverflow.com/questions/23277987/plotting-two-legends-side-by-side-or-one-legend-with-two-columns
@@ -46,8 +67,67 @@ mtext("Gene targets", at=0.4, cex=2.5, line = -2)
 
 ```
 
-Add a new chunk by clicking the *Insert Chunk* button on the toolbar or by pressing *Ctrl+Alt+I*.
 
-When you save the notebook, an HTML file containing the code and output will be saved alongside it (click the *Preview* button or press *Ctrl+Shift+K* to preview the HTML file).
+```{r}
+### Modified ##
 
-The preview shows you a rendered HTML copy of the contents of the editor. Consequently, unlike *Knit*, *Preview* does not run any R code chunks. Instead, the output of the chunk when it was last run in the editor is displayed.
+### IFNy
+
+plot(NULL ,xaxt='n',yaxt='n',bty='n',ylab='',xlab='', xlim=0:1/2, ylim=0:1/2)
+
+legend("center", legend =c('STAT1-IRF1-IRF9', 'IRF1-only',
+    'STAT1 homodimer', 'STAT1-IRF1'), pch=16, pt.cex=3, cex=2, bty='n',
+    col = c('#ADFF2F', '#40E0D0', '#FF0000', '#DAA520'))
+mtext("TF targets", at=0.4, cex=2.5, line = -2)
+
+```
+
+```{r}
+# https://stackoverflow.com/questions/23277987/plotting-two-legends-side-by-side-or-one-legend-with-two-columns
+# https://stackoverflow.com/questions/29692288/how-to-make-r-legend-with-2-columns
+# https://stackoverflow.com/questions/44847770/split-legend-into-two-lines
+
+### IFNy ##Two legends
+
+plot(NULL ,xaxt='n',yaxt='n',bty='n',ylab='',xlab='', xlim=0:1/2, ylim=0:1/2)
+
+legend("center", legend =c('STAT1-IRF1-IRF9', 'IRF1-only',
+    'STAT1 homodimer', 'STAT1-IRF1', 'STAT1-IRF9', NA, 'GAS', 'ISRE', 'Composite'), pch=c(rep(16,5), NA, 5, 0, 1), pt.cex=c(rep(2.7,5), NA, rep(2.4,3)), cex=1.4, x.intersp = 0.75, y.intersp = 1.3, bty='n', 
+    col = c('#ffadad', '#ffd6a5', '#fdffb6', '#caffbf', '#9BF6FF', NA, rep('black', 3)), ncol = 2)
+mtext("       TF targets         Motif type", at=0.2, cex=2, line = -3)
+
+```
+
+```{r}
+
+## IFNa ##Two legends
+
+plot(NULL ,xaxt='n',yaxt='n',bty='n',ylab='',xlab='', xlim=0:1/2, ylim=0:1/2)
+
+legend("center", legend =c('STAT1+STAT2+IRF9+IRF1', 'STAT1+STAT2+IRF9', 'IRF1-only',
+    'STAT1-STAT2', 'STAT1 homodimer',NA, 'GAS', 'ISRE', 'Composite'), pch=c(rep(16,5),NA, 5, 0, 1), pt.cex=c(rep(2.7,5), NA, rep(2.4,3)), cex=1.4, x.intersp = 0.75, y.intersp = 1.3, bty='n', 
+    col = c('#ffadad', '#ffc6ff', '#ffd6a5', '#bdb2ff', '#fdffb6', NA, rep('black', 3)), ncol = 2)
+mtext("TF targets               Motif type", at=0.2, cex=2, line = -3)
+
+```
+
+
+```{r}
+legend("topright", title="Cell   Group", # << THIS IS THE HACKISH PART
+       legend=c("A","B","C","p","v"), 
+       col=c(rep("black",3),'red','blue'), pch=c(0,5,6,1,1),
+       bty="n", border=F, ncol=2)
+```
+
+
+
+```{r}
+plot(cumsum(runif(n = 100)))
+
+# draw legend with lines and point but without labels and box. x.intersp controls horizontal distance between lines
+L = legend(x = 'bottom', legend = rep(NA,4), col=1:2, lty=c(1,1,2,2), ncol=2, bty='n', x.intersp=0.5, pch=c(1,2,1,2), inset=0.02)
+
+# use position data of previous legend to draw legend with invisble lines and points but with labels and box. x.intersp controls distance between lines and labels
+legend(x = L$rect$left, y = L$rect$top, legend = c('Group A', 'Group B'), col=rep(NA,2), lty=c(1,1), ncol=1, x.intersp = 3, bg = NA)
+```
+
