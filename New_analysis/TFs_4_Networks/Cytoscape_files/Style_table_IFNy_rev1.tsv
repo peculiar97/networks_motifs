@@ -5,7 +5,7 @@ A2M	GAS	#fdffb6	STAT1	diamond
 APOL2	composite	#ffadad	STAT1 + IRF1 + IRF9	rectangle
 ACSL5	ISRE	#ffd6a5	IRF1	ellipse
 APOL6	composite	#ffadad	STAT1 + IRF1 + IRF9	rectangle
-ACY3	ISRE	#238b45	IRF1 + IRF9	ellipse
+ACY3	ISRE	#66c2a4	IRF1 + IRF9	ellipse
 AGFG2	GAS	#fdffb6	STAT1	diamond
 BCL2L14	composite	#caffbf	STAT1 + IRF1	rectangle
 ADAR	ISRE	#ffadad	STAT1 + IRF1 + IRF9	ellipse
@@ -29,7 +29,7 @@ BTN3A2	ISRE	#ffd6a5	IRF1	ellipse
 CTSO	composite	#ffd6a5	IRF1	rectangle
 BTN3A3	ISRE	#ffd6a5	IRF1	ellipse
 C5orf15	ISRE	#ffd6a5	IRF1	ellipse
-DDX58	composite	#238b45	IRF1 + IRF9	rectangle
+DDX58	composite	#66c2a4	IRF1 + IRF9	rectangle
 CASP4	ISRE	#caffbf	STAT1 + IRF1	ellipse
 DTX3L	composite	#caffbf	STAT1 + IRF1	rectangle
 CASP7	ISRE	#ffd6a5	IRF1	ellipse
@@ -55,7 +55,7 @@ DDX60L	ISRE	#ffd6a5	IRF1	ellipse
 C5	GAS	#fdffb6	STAT1	diamond
 IFI6	ISRE	#ffadad	STAT1 + IRF1 + IRF9	ellipse
 DNAJA1	ISRE	#ffd6a5	IRF1	ellipse
-IFIT5	ISRE	#238b45	IRF1 + IRF9	ellipse
+IFIT5	ISRE	#66c2a4	IRF1 + IRF9	ellipse
 DNPEP	ISRE	#ffd6a5	IRF1	ellipse
 CREBRF	GAS	#fdffb6	STAT1	diamond
 IFITM3	composite	#ffadad	STAT1 + IRF1 + IRF9	rectangle
@@ -98,7 +98,7 @@ RIPK1	composite	#caffbf	STAT1 + IRF1	rectangle
 HABP2	GAS	#fdffb6	STAT1	diamond
 RNF213	composite	#ffadad	STAT1 + IRF1 + IRF9	rectangle
 RTP4	ISRE	#ffd6a5	IRF1	ellipse
-IFIT1	ISRE	#238b45	IRF1 + IRF9	ellipse
+IFIT1	ISRE	#66c2a4	IRF1 + IRF9	ellipse
 SAMD9	ISRE	#ffd6a5	IRF1	ellipse
 IFIT2	ISRE	#ffd6a5	IRF1	ellipse
 HIPK3	GAS	#fdffb6	STAT1	diamond
@@ -110,7 +110,7 @@ HNRNPR	GAS	#fdffb6	STAT1	diamond
 SP110	composite	#ffadad	STAT1 + IRF1 + IRF9	rectangle
 ISG15	ISRE	#ffadad	STAT1 + IRF1 + IRF9	ellipse
 SPTBN1	composite	#caffbf	STAT1 + IRF1	rectangle
-ISG20	ISRE	#238b45	IRF1 + IRF9	ellipse
+ISG20	ISRE	#66c2a4	IRF1 + IRF9	ellipse
 STX17	composite	#ffd6a5	IRF1	rectangle
 KDSR	ISRE	#ffd6a5	IRF1	ellipse
 HPX	GAS	#fdffb6	STAT1	diamond
@@ -148,7 +148,7 @@ PCNA	ISRE	#ffd6a5	IRF1	ellipse
 NFKB2	GAS	#fdffb6	STAT1	diamond
 NFKBIZ	GAS	#caffbf	STAT1 + IRF1	diamond
 NNMT	GAS	#fdffb6	STAT1	diamond
-PNPT1	ISRE	#238b45	IRF1 + IRF9	ellipse
+PNPT1	ISRE	#66c2a4	IRF1 + IRF9	ellipse
 PRKD2	ISRE	#ffd6a5	IRF1	ellipse
 NUCB1	GAS	#fdffb6	STAT1	diamond
 PRRG4	ISRE	#ffd6a5	IRF1	ellipse
@@ -161,7 +161,6 @@ RBCK1	ISRE	#ffd6a5	IRF1	ellipse
 RBM43	ISRE	#ffd6a5	IRF1	ellipse
 PROS1	GAS	#fdffb6	STAT1	diamond
 PSMB3	GAS	#fdffb6	STAT1	diamond
-RPS12	ISRE	#e5f5f9	IRF9	ellipse
 RAB27A	GAS	#fdffb6	STAT1	diamond
 RAD1	GAS	#fdffb6	STAT1	diamond
 SEC16B	ISRE	#ffadad	STAT1 + IRF1 + IRF9	ellipse
