@@ -1,0 +1,212 @@
+Symbol	Motif	Target	Shape	colr
+ZC3HAV1	composite	STAT1+STAT2+IRF9+IRF1	rectangle	#ffadad
+YPEL2	GAS	STAT1 + STAT2	diamond	#caffbf
+XAF1	ISRE	STAT1+STAT2+IRF9+IRF1	ellipse	#ffadad
+VTN	GAS	STAT1 + STAT2	diamond	#caffbf
+USP18	composite	STAT1+STAT2+IRF9+IRF1	rectangle	#ffadad
+TRIM44	ISRE	STAT1+STAT2+IRF9+IRF1	ellipse	#ffadad
+TRIM26	ISRE	STAT1+STAT2+IRF9+IRF1	ellipse	#ffadad
+TRIM14	ISRE	STAT1+STAT2+IRF9+IRF1	ellipse	#ffadad
+TOP1	GAS	STAT1 + STAT2	diamond	#caffbf
+TNFAIP1	GAS	STAT1 + STAT2	diamond	#caffbf
+TMEM140	ISRE	STAT1+STAT2+IRF9+IRF1	ellipse	#ffadad
+TCIRG1	GAS	STAT1 + STAT2	diamond	#caffbf
+TAPBP	ISRE	STAT1+STAT2+IRF9+IRF1	ellipse	#ffadad
+TAP2	ISRE	STAT1+STAT2+IRF9+IRF1	ellipse	#ffadad
+TAP1	ISRE	STAT1+STAT2+IRF9+IRF1	ellipse	#ffadad
+STX17	composite	STAT1+STAT2+IRF9+IRF1	rectangle	#ffadad
+STAT3	GAS	STAT1 + STAT2	diamond	#caffbf
+STAT1	ISRE	STAT1+STAT2+IRF9+IRF1	ellipse	#ffadad
+SSBP4	GAS	STAT1 + STAT2	diamond	#caffbf
+SPTBN1	composite	STAT1+STAT2+IRF9+IRF1	rectangle	#ffadad
+SP140L	ISRE	STAT1+STAT2+IRF9+IRF1	ellipse	#ffadad
+SP110	composite	STAT1+STAT2+IRF9+IRF1	rectangle	#ffadad
+SP100	ISRE	STAT1+STAT2+IRF9+IRF1	ellipse	#ffadad
+SOCS3	GAS	STAT1 + STAT2	diamond	#caffbf
+SOCS1	ISRE	STAT1+STAT2+IRF9+IRF1	ellipse	#ffadad
+SMARCA5	ISRE	STAT1+STAT2+IRF9+IRF1	ellipse	#ffadad
+SLFN12	ISRE	STAT1+STAT2+IRF9+IRF1	ellipse	#ffadad
+SLC7A2	GAS	STAT1 + STAT2	diamond	#caffbf
+SLC25A18	GAS	STAT1 + STAT2	diamond	#caffbf
+SLC15A3	ISRE	STAT1+STAT2+IRF9+IRF1	ellipse	#ffadad
+SHISA5	composite	STAT1+STAT2+IRF9+IRF1	rectangle	#ffadad
+SERPING1	GAS	STAT1 + STAT2	diamond	#caffbf
+SERPINB1	GAS	STAT1 + STAT2	diamond	#caffbf
+SEPHS2	GAS	STAT1 + STAT2	diamond	#caffbf
+SEC16B	ISRE	STAT1+STAT2+IRF9+IRF1	ellipse	#ffadad
+SCN9A	GAS	STAT1 + STAT2	diamond	#caffbf
+SAMD9	ISRE	STAT1+STAT2+IRF9+IRF1	ellipse	#ffadad
+RTP4	ISRE	STAT1+STAT2+IRF9+IRF1	ellipse	#ffadad
+RPS6KB2	composite	STAT1+STAT2+IRF9+IRF1	rectangle	#ffadad
+RPS12	ISRE	STAT1 + STAT2 + IRF9+IRF1	ellipse	#ffadad
+RNF213	composite	STAT1+STAT2+IRF9+IRF1	rectangle	#ffadad
+RIPK1	composite	STAT1 + STAT2	rectangle	#caffbf
+RBM7	composite	STAT1+STAT2+IRF9+IRF1	rectangle	#ffadad
+RBM43	ISRE	STAT1+STAT2+IRF9+IRF1	ellipse	#ffadad
+RBCK1	ISRE	STAT1+STAT2+IRF9+IRF1	ellipse	#ffadad
+PSME1	ISRE	STAT1+STAT2+IRF9+IRF1	ellipse	#ffadad
+PROS1	GAS	STAT1 + STAT2	diamond	#caffbf
+PRKD2	ISRE	STAT1+STAT2+IRF9+IRF1	ellipse	#ffadad
+PNPT1	ISRE	STAT1+STAT2+IRF9+IRF1	ellipse	#ffadad
+PML	composite	STAT1+STAT2+IRF9+IRF1	rectangle	#ffadad
+PLSCR1	composite	STAT1+STAT2+IRF9+IRF1	rectangle	#ffadad
+PLEKHB2	GAS	STAT1 + STAT2	diamond	#caffbf
+PHF11	composite	STAT1+STAT2+IRF9+IRF1	rectangle	#ffadad
+PARP14	composite	STAT1+STAT2+IRF9+IRF1	rectangle	#ffadad
+PARP10	ISRE	STAT1+STAT2+IRF9+IRF1	ellipse	#ffadad
+OSMR	GAS	STAT1 + STAT2	diamond	#caffbf
+OGFR	ISRE	STAT1+STAT2+IRF9+IRF1	ellipse	#ffadad
+OAS3	ISRE	STAT1+STAT2+IRF9+IRF1	ellipse	#ffadad
+OAS2	ISRE	STAT1+STAT2+IRF9+IRF1	ellipse	#ffadad
+OAS1	ISRE	STAT1+STAT2+IRF9+IRF1	ellipse	#ffadad
+NUCB1	GAS	STAT1 + STAT2	diamond	#caffbf
+NOD1	ISRE	STAT1+STAT2+IRF9+IRF1	ellipse	#ffadad
+NMI	composite	STAT1+STAT2+IRF9+IRF1	rectangle	#ffadad
+NFKBIZ	GAS	STAT1 + STAT2	diamond	#caffbf
+NCOA7	composite	STAT1+STAT2+IRF9+IRF1	rectangle	#ffadad
+NAPA	ISRE	STAT1 + STAT2 + IRF9+IRF1	ellipse	#ffadad
+NAMPT	GAS	STAT1 + STAT2	diamond	#caffbf
+MYD88	composite	STAT1+STAT2+IRF9+IRF1	rectangle	#ffadad
+MX1	composite	STAT1+STAT2+IRF9+IRF1	rectangle	#ffadad
+MVB12A	composite	STAT1+STAT2+IRF9+IRF1	rectangle	#ffadad
+MOV10	ISRE	STAT1+STAT2+IRF9+IRF1	ellipse	#ffadad
+MITD1	GAS	STAT1 + STAT2	diamond	#caffbf
+MDK	composite	STAT1+STAT2+IRF9+IRF1	rectangle	#ffadad
+LGALS3BP	composite	STAT1+STAT2+IRF9+IRF1	rectangle	#ffadad
+LAP3	ISRE	STAT1+STAT2+IRF9+IRF1	ellipse	#ffadad
+ISG20	ISRE	STAT1+STAT2+IRF9+IRF1	ellipse	#ffadad
+ISG15	ISRE	STAT1+STAT2+IRF9+IRF1	ellipse	#ffadad
+IRF9	composite	STAT1 + STAT2 + IRF9	rectangle	#ffd6a5
+IRF2	composite	STAT1+STAT2+IRF9+IRF1	rectangle	#ffadad
+IRF1	GAS	STAT1 + STAT2	diamond	#caffbf
+IFITM3	composite	STAT1+STAT2+IRF9+IRF1	rectangle	#ffadad
+IFIT5	ISRE	STAT1+STAT2+IRF9+IRF1	ellipse	#ffadad
+IFIT3	ISRE	STAT1+STAT2+IRF9+IRF1	ellipse	#ffadad
+IFIT2	ISRE	STAT1+STAT2+IRF9+IRF1	ellipse	#ffadad
+IFIT1	ISRE	STAT1+STAT2+IRF9+IRF1	ellipse	#ffadad
+IFI6	ISRE	STAT1+STAT2+IRF9+IRF1	ellipse	#ffadad
+IFI35	composite	STAT1+STAT2+IRF9+IRF1	rectangle	#ffadad
+ICAM1	GAS	STAT1 + STAT2	diamond	#caffbf
+HLA-E	GAS	STAT1+STAT2	diamond	#caffbf
+HABP2	GAS	STAT1 + STAT2	diamond	#caffbf
+GSDMD	ISRE	STAT1+STAT2+IRF9+IRF1	ellipse	#ffadad
+GNB4	ISRE	STAT1+STAT2+IRF9+IRF1	ellipse	#ffadad
+GNB2	GAS	STAT1 + STAT2	diamond	#caffbf
+GNA13	ISRE	STAT1+STAT2+IRF9+IRF1	ellipse	#ffadad
+GCLM	GAS	STAT1 + STAT2	diamond	#caffbf
+GBP3	composite	STAT1+STAT2+IRF9+IRF1	rectangle	#ffadad
+GBP1P1	ISRE	STAT1+STAT2+IRF9+IRF1	ellipse	#ffadad
+GBP1	ISRE	STAT1+STAT2+IRF9+IRF1	ellipse	#ffadad
+FGL1	GAS	STAT1 + STAT2	diamond	#caffbf
+FGA	GAS	STAT1 + STAT2	diamond	#caffbf
+FAM111A	ISRE	STAT1+STAT2+IRF9+IRF1	ellipse	#ffadad
+EFNA1	GAS	STAT1 + STAT2	diamond	#caffbf
+DTX3L	composite	STAT1+STAT2+IRF9+IRF1	rectangle	#ffadad
+DNPEP	ISRE	STAT1+STAT2+IRF9+IRF1	ellipse	#ffadad
+DNAJA1	ISRE	STAT1+STAT2+IRF9+IRF1	ellipse	#ffadad
+DDX60L	ISRE	STAT1+STAT2+IRF9+IRF1	ellipse	#ffadad
+DDX60	ISRE	STAT1+STAT2+IRF9+IRF1	ellipse	#ffadad
+DDX58	composite	STAT1+STAT2+IRF9+IRF1	rectangle	#ffadad
+CYTH1	ISRE	STAT1+STAT2+IRF9+IRF1	ellipse	#ffadad
+CUTA	GAS	STAT1 + STAT2	diamond	#caffbf
+CSF1	composite	STAT1+STAT2+IRF9+IRF1	rectangle	#ffadad
+CREBRF	GAS	STAT1 + STAT2	diamond	#caffbf
+CMPK2	ISRE	STAT1+STAT2+IRF9+IRF1	ellipse	#ffadad
+CFB	composite	STAT1+STAT2+IRF9+IRF1	rectangle	#ffadad
+CEACAM1	ISRE	STAT1+STAT2+IRF9+IRF1	ellipse	#ffadad
+CD274	composite	STAT1+STAT2+IRF9+IRF1	rectangle	#ffadad
+CASP8	ISRE	STAT1+STAT2+IRF9+IRF1	ellipse	#ffadad
+CASP7	ISRE	STAT1+STAT2+IRF9+IRF1	ellipse	#ffadad
+CASP4	composite	STAT1+STAT2+IRF9+IRF1	rectangle	#ffadad
+C2	GAS	STAT1 + STAT2	diamond	#caffbf
+C1S	GAS	STAT1 + STAT2	diamond	#caffbf
+C1RL	GAS	STAT1 + STAT2	diamond	#caffbf
+C19orf12	GAS	STAT1 + STAT2	diamond	#caffbf
+BCL6	GAS	STAT1 + STAT2	diamond	#caffbf
+BATF2	ISRE	STAT1+STAT2+IRF9+IRF1	ellipse	#ffadad
+B2M	ISRE	STAT1+STAT2+IRF9+IRF1	ellipse	#ffadad
+ASXL1	GAS	STAT1 + STAT2	diamond	#caffbf
+ASAP1	GAS	STAT1 + STAT2	diamond	#caffbf
+APOL6	composite	STAT1+STAT2+IRF9+IRF1	rectangle	#ffadad
+APOL2	composite	STAT1+STAT2+IRF9+IRF1	rectangle	#ffadad
+APOA2	GAS	STAT1 + STAT2	diamond	#caffbf
+ANXA2R	GAS	STAT1 + STAT2	diamond	#caffbf
+AIG1	composite	STAT1+STAT2+IRF9+IRF1	rectangle	#ffadad
+AGT	GAS	STAT1 + STAT2	diamond	#caffbf
+ADAR	ISRE	STAT1+STAT2+IRF9+IRF1	ellipse	#ffadad
+ACY3	ISRE	STAT1+STAT2+IRF9+IRF1	ellipse	#ffadad
+ACOT7	ISRE	STAT1+STAT2+IRF9+IRF1	ellipse	#ffadad
+STAT2	ISRE	STAT1+STAT2+IRF9+IRF1	ellipse	#ffadad
+ZNF24	GAS	STAT1	diamond	#9bf6ff
+WSB1	GAS	STAT1	diamond	#9bf6ff
+UBE2D1	GAS	STAT1	diamond	#9bf6ff
+SMPD1	GAS	STAT1	diamond	#9bf6ff
+SMG1	composite	STAT1	rectangle	#9bf6ff
+SKI	GAS	STAT1	diamond	#9bf6ff
+SHC2	GAS	STAT1	diamond	#9bf6ff
+SERPIND1	composite	STAT1	rectangle	#9bf6ff
+SDSL	GAS	STAT1	diamond	#9bf6ff
+RBP4	GAS	STAT1	diamond	#9bf6ff
+RBM42	GAS	STAT1	diamond	#9bf6ff
+RAP1A	GAS	STAT1	diamond	#9bf6ff
+RAD1	GAS	STAT1	diamond	#9bf6ff
+RAB27A	GAS	STAT1	diamond	#9bf6ff
+PSMB3	GAS	STAT1	diamond	#9bf6ff
+PDE4D	GAS	STAT1	diamond	#9bf6ff
+NNMT	GAS	STAT1	diamond	#9bf6ff
+NFKB2	GAS	STAT1	diamond	#9bf6ff
+MTPN	GAS	STAT1	diamond	#9bf6ff
+MED16	GAS	STAT1	diamond	#9bf6ff
+MAPKAPK3	GAS	STAT1	diamond	#9bf6ff
+MAN1A1	GAS	STAT1+STAT2	diamond	#caffbf
+MAFF	GAS	STAT1	diamond	#9bf6ff
+LSR	GAS	STAT1	diamond	#9bf6ff
+IPO8	GAS	STAT1	diamond	#9bf6ff
+INTS10	GAS	STAT1	diamond	#9bf6ff
+IMPAD1	GAS	STAT1	diamond	#9bf6ff
+HPX	GAS	STAT1	diamond	#9bf6ff
+HNRNPR	GAS	STAT1	diamond	#9bf6ff
+HIPK3	GAS	STAT1	diamond	#9bf6ff
+H6PD	GAS	STAT1	diamond	#9bf6ff
+GEN1	GAS	STAT1	diamond	#9bf6ff
+GCNT3	GAS	STAT1	diamond	#9bf6ff
+GADD45B	GAS	STAT1	diamond	#9bf6ff
+FGB	GAS	STAT1+STAT2	diamond	#caffbf
+FANCI	GAS	STAT1	diamond	#9bf6ff
+DPAGT1	GAS	STAT1	diamond	#9bf6ff
+DEK	GAS	STAT1	diamond	#9bf6ff
+DDX23	GAS	STAT1	diamond	#9bf6ff
+C5	GAS	STAT1	diamond	#9bf6ff
+C4BPB	GAS	STAT1	diamond	#9bf6ff
+BTBD1	GAS	STAT1	diamond	#9bf6ff
+BOD1	GAS	STAT1	diamond	#9bf6ff
+BCLAF1	GAS	STAT1	diamond	#9bf6ff
+AGFG2	GAS	STAT1	diamond	#9bf6ff
+ERAP1	ISRE	STAT1+STAT2+IRF9+IRF1	ellipse	#ffadad
+ZFYVE26	ISRE	IRF1	ellipse	#fdffb6
+ZC3H7B	ISRE	IRF1	ellipse	#fdffb6
+USF1	ISRE	IRF1	ellipse	#fdffb6
+TAPBPL	ISRE	IRF1	ellipse	#fdffb6
+PSMB10	ISRE	IRF1	ellipse	#fdffb6
+PRRG4	ISRE	IRF1	ellipse	#fdffb6
+PRRC2C	composite	IRF1	rectangle	#fdffb6
+PCNA	ISRE	IRF1	ellipse	#fdffb6
+PANX1	ISRE	IRF1	ellipse	#fdffb6
+OTUD4	ISRE	IRF1	ellipse	#fdffb6
+OPTN	ISRE	IRF1	ellipse	#fdffb6
+NEDD1	ISRE	IRF1	ellipse	#fdffb6
+KDSR	ISRE	IRF1	ellipse	#fdffb6
+CTSO	composite	IRF1	rectangle	#fdffb6
+CASP1	composite	IRF1	rectangle	#fdffb6
+C5orf15	ISRE	IRF1	ellipse	#fdffb6
+BTN3A3	ISRE	IRF1	ellipse	#fdffb6
+BTN3A2	ISRE	IRF1	ellipse	#fdffb6
+BTN3A1	ISRE	IRF1	ellipse	#fdffb6
+APOL1	composite	IRF1	rectangle	#fdffb6
+AP5Z1	ISRE	IRF1	ellipse	#fdffb6
+AIDA	ISRE	IRF1	ellipse	#fdffb6
+ACSL5	ISRE	IRF1	ellipse	#fdffb6
+UBE2L6	composite	STAT1+STAT2+IRF9+IRF1	rectangle	#ffadad
+TRIM69	composite	STAT1+STAT2+IRF9	rectangle	#ffd6a5
+A2M	GAS	STAT1+STAT2	diamond	#caffbf
+CCND1	ISRE	STAT1+STAT2+IRF9+IRF1	ellipse	#ffadad
